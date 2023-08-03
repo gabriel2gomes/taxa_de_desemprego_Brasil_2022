@@ -22,8 +22,16 @@
   ![image](https://github.com/gabriel2gomes/taxa_de_desemprego_Brasil_2022/assets/139660562/e9da04ac-e73a-408a-8583-355124fe5707)
 
  - Ranking dos 5 Estados brasileiros com menor taxa de desemprego no 4º trimeste de 2022
-   
-  ![image](https://github.com/gabriel2gomes/taxa_de_desemprego_Brasil_2022/assets/139660562/a3a7d1b1-3725-4d14-aca2-9615dd2b6f3b)
+
+    ![image](https://github.com/gabriel2gomes/taxa_de_desemprego_Brasil_2022/assets/139660562/a3a7d1b1-3725-4d14-aca2-9615dd2b6f3b)
+
+  - Ranking dos Estados com maior taxa de desemprego no 4º trimestre de 2022
+    ![image](https://github.com/gabriel2gomes/taxa_de_desemprego_Brasil_2022/assets/139660562/5a5bdced-9600-44ae-a7dc-a22f7c219d2f)
+
+    
+    ![image](https://github.com/gabriel2gomes/taxa_de_desemprego_Brasil_2022/assets/139660562/14d587a9-e8f8-4aea-973a-45e894258b9d)
+
+
 
 ![image](https://github.com/gabriel2gomes/taxa_de_desemprego_Brasil_2022/assets/139660562/12847947-7987-42d5-885e-17d031010c64)
 
