@@ -27,10 +27,13 @@
 
   - Ranking dos Estados com maior taxa de desemprego no 4º trimestre de 2022
 
-    ![image](https://github.com/gabriel2gomes/taxa_de_desemprego_Brasil_2022/assets/139660562/5a5bdced-9600-44ae-a7dc-a22f7c219d2f)
+    ![image](https://github.com/gabriel2gomes/taxa_de_desemprego_Brasil_2022/assets/139660562/70947058-cf44-4867-86ca-a7a1922440fd)
+
 
     
-    ![image](https://github.com/gabriel2gomes/taxa_de_desemprego_Brasil_2022/assets/139660562/14d587a9-e8f8-4aea-973a-45e894258b9d)
+    **Mapa dos Estados com as Maiores Taxas de Desemprego (4º trimestre de 2022)**
+   ![image](https://github.com/gabriel2gomes/taxa_de_desemprego_Brasil_2022/assets/139660562/62e2f042-5bd7-424c-bfe4-b25dd454d1cb)
+
 
 
 
