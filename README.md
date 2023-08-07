@@ -32,7 +32,7 @@
 
     
     **Mapa dos Estados com as Maiores Taxas de Desemprego (4º trimestre de 2022)**
-   ![image](https://github.com/gabriel2gomes/taxa_de_desemprego_Brasil_2022/assets/139660562/62e2f042-5bd7-424c-bfe4-b25dd454d1cb)
+ ![image](https://github.com/gabriel2gomes/taxa_de_desemprego_Brasil_2022/assets/139660562/a53c637c-5f33-43cf-9339-30710cd377d0)
 
 
 
